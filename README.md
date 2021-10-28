@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nitin Reddy!
 
+<a href="https://app.daily.dev/nitnreddy3"><img src="https://api.daily.dev/devcards/96078f8ead61495eb53954233ca991c5.png?r=uoi" width="400" alt="Nitin Reddy's Dev Card"/></a>
+
 ![Tweeter](https://img.shields.io/twitter/follow/nitkr?style=social)
 ![GitHub](https://img.shields.io/github/followers/nitnreddy3?style=social)
 
